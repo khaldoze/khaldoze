@@ -11,7 +11,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=khaldoze+is+interested+in+writing;khaldoze+is+interested+in+AI;khaldoze+is+interested+in+Problem+Solving" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=khaldoze+is+interested+in+Math;khaldoze+is+interested+in+AI; khaldoze+is+interested+in+Problem+Solving" alt="About Me Animation" />
 </div>
 
 <p align="center">
