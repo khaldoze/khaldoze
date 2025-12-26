@@ -1,91 +1,95 @@
-<!-- ===================== -->
-<!-- Animated Typing Intro -->
-<!-- ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Hi+I'm+Khaldoze+👋;Competitive+Programmer+💻;CS+Student+@+SCU;AI+%26+Game+Dev" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Khaldoze&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20CS%20Student%20%7C%20AI%20Dev&descAlignY=55&descAlign=62" width="100%"/>
+</div>
+
+<p align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33E9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yousef+👋;Competitive+Programmer+🏆;CS+Student+@+SCU+🎓;Building+AI+%26+Game+Systems+🤖" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="center">🚀 Competitive Programmer | CS Student | AI & Game Dev Enthusiast</h3>
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+  
+| 🧠 **Focus** | 🎓 **Education** | 🚀 **Passion** |
+|:---:|:---:|:---:|
+| **Algorithms & AI** | **CS at Suez Canal University** | **Game Dev & Automation** |
+
+</div>
+
+<br/>
+
+<p align="center">
+  <i>"Transforming coffee into efficient code and complex algorithms."</i>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 **Computer Science Student** at **Suez Canal University (SCU)**
-- 🏆 **Competitive Programmer**
-- 🤖 Interested in **Artificial Intelligence**
-- 🎮 Interested in **Game Development**
-- 🧠 Love algorithms, data structures & problem solving
+<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,git,github,linux,vscode&perline=8&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,unity,blender,mysql,md,arduino,discord&perline=8&theme=dark" />
+</p>
 
 ---
 
-## 🏁 Competitive Programming
+<h2 align="center">📊 Coding Statistics</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight&hide_border=true" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldoze&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+---
+
+<h2 align="center">🏆 Competitive Programming</h2>
+
 <p align="center">
   <a href="https://codeforces.com/profile/khaldoze">
-    <img src="https://img.shields.io/badge/Codeforces-khaldoze-0057FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-khaldoze-3182ce?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-khaldoze-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-khaldoze-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Programming Languages 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<h2 align="center">📫 Connect & Views</h2>
 
----
-
-## 📫 Connect with Me
 <p align="center">
   <a href="mailto:yousef.khaloda.asman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yousef-khaled404/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=khaldoze&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
----
-
-## 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldoze&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://media.giphy.com/media/26tn33ai009QWAPEc/giphy.gif" width="100%" />
 </p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khaldoze&color=FF5733&style=flat" />
-</p>
-
----
-
-<!-- Optional Fun Animated Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF33FF&center=true&vCenter=true&width=600&lines=Always+Learning+%26+Coding;Never+Stop+Exploring;Let's+Build+The+Future" />
-</p>
-
----
-
-> 💡 *"First, solve the problem. Then, write the code."*
