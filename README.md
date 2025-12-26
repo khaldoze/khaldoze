@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Programming Languages (Animated)
+## 🛠️ Programming Languages 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00FFAB&center=true&vCenter=true&width=600&lines=C%2B%2B+Competitive+Programming;Java+Problem+Solving;Python+AI+%26+Automation" />
 </p>
@@ -52,18 +52,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khaldoze&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldoze&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldoze&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
