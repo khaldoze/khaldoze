@@ -10,13 +10,13 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33E9FF&center=true&vCenter=true&width=500&lines=Khaldoze+is+interested+in+Writing;Khaldoze+is+interested+in+AI;Khaldoze+is+interested+in+Problem+Solving;Khaldoze+is+interested+in+Game+Dev" />
+</div>
+
 <p align="center">
   <b>🧠 Focus:</b> Algorithms & AI | <b>🎓 Education:</b> Suez Canal University | <b>🚀 Passion:</b> Game Dev
 </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A9CCFF&center=true&vCenter=true&width=500&lines=Khaldoze+is+interested+in+AI+🤖;Khaldoze+is+interested+in+Algorithms+🧠;Khaldoze+is+interested+in+Game+Dev+🎮;Khaldoze+is+interested+in+Competitive+Programming+🏆" />
-</div>
 
 <p align="center">
   <i>"Transforming coffee into efficient code and complex algorithms."</i>
@@ -48,17 +48,11 @@
       </td>
     </tr>
   </table>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldoze&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <h2 align="center">🏆 Competitive Programming</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Competitive+Programming;Problem+Solving;Discovering+Algorithms" />
-</div>
 
 <div align="center">
   <a href="https://codeforces.com/profile/khaldoze">
@@ -78,6 +72,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamNreXp3bm9qZ3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</div>
 
 <p align="center">
   <sub><i>First, solve the problem. Then, write the code.</i></sub>
