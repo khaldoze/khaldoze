@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=khaldoze+interesting+in+math;khaldoze+interesting+in+problem+solving;khaldoze+interesting+in+writing;khaldoze+interesting+in+AI" alt="" />
