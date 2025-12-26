@@ -31,7 +31,10 @@
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js&perline=4&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -86,4 +89,8 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33ai009QWAPEc/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <sub><i>First, solve the problem. Then, write the code.</i></sub>
 </p>
