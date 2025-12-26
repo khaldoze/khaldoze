@@ -2,29 +2,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Khaldoze&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20CS%20Student%20%7C%20AI%20Dev&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33E9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yousef+👋;Competitive+Programmer+🏆;CS+Student+@+SCU+🎓;Building+AI+%26+Game+Systems+🤖" alt=""/>
-</div>
-
 ---
 
 <h2 align="center"> About Me</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=khaldoze+interesting+in+math;khaldoze+interesting+in+problem+solving;khaldoze+interesting+in+writing;khaldoze+interesting+in+AI" alt="" />
-</div>
 
 <p align="center">
   <b>🧠 Focus:</b> Algorithms & AI | <b>🎓 Education:</b> Suez Canal University | <b>🚀 Passion:</b> Game Dev
 </p>
 
+<p align="center">
+  khaldoze is interesting in <b>Math</b> • <b>Problem Solving</b> • <b>Writing</b> • <b>AI</b>
+</p>
+
+<p align="center">
+  <i>"Transforming coffee into efficient code and complex algorithms."</i>
+</p>
+
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FFD700&center=true&vCenter=true&width=400&lines=Mastering+C%2B%2B;Developing+with+Java;Scripting+in+Python;Building+with+JavaScript" alt="" />
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -37,9 +33,9 @@
 
 <h2 align="center">🏆 Competitive Programming</h2>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3182ce&center=true&vCenter=true&width=600&lines=Solving+Complex+Challenges;Mastering+Data+Structures;Optimizing+Algorithms;Active+on+Codeforces" alt="" />
-</div>
+<p align="center">
+  Solving Complex Challenges • Mastering Data Structures • Optimizing Algorithms
+</p>
 
 <div align="center">
   <a href="https://codeforces.com/profile/khaldoze">
