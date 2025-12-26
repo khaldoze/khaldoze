@@ -18,13 +18,13 @@
   <b>🧠 Focus:</b> Algorithms & AI | <b>🎓 Education:</b> Suez Canal University | <b>🚀 Passion:</b> Game Dev
 </p>
 
-<p align="center">
-  <i>"Transforming coffee into efficient code and complex algorithms."</i>
-</p>
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FFD700&center=true&vCenter=true&width=400&lines=Mastering+C%2B%2B;Developing+with+Java;Scripting+in+Python;Building+with+JavaScript" alt="" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
