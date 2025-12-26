@@ -31,10 +31,7 @@
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,git,github,linux,vscode&perline=8&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,unity,blender,mysql,md,arduino,discord&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js&perline=4&theme=tokyonight" />
 </p>
 
 ---
@@ -57,7 +54,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldoze&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldoze&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" />
 </div>
 
 ---
@@ -65,17 +62,18 @@
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Competitive+Programming;Problem+Solving;Discovering+Algorithms" />
+</p>
+
+<p align="center">
   <a href="https://codeforces.com/profile/khaldoze">
     <img src="https://img.shields.io/badge/Codeforces-khaldoze-3182ce?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">📫 Connect & Views</h2>
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:yousef.khaloda.asman@gmail.com">
@@ -84,10 +82,6 @@
   <a href="https://www.linkedin.com/in/yousef-khaled404/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khaldoze&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
