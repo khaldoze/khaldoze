@@ -11,7 +11,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=khaldoze+interesting+in+math;khaldoze+interesting+in+problem+solving;khaldoze+interesting+in+writing;khaldoze+interesting+in+AI" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=khaldoze+interesting+in+math;khaldoze+interesting+in+problem+solving;khaldoze+interesting+in+writing;khaldoze+interesting+in+AI" alt="" />
 </div>
 
 <p align="center">
@@ -35,17 +35,11 @@
 
 ---
 
-<h2 align="center">📊 Coding Statistics</h2>
+<h2 align="center">🏆 Competitive Programming</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3182ce&center=true&vCenter=true&width=600&lines=Solving+Complex+Challenges;Mastering+Data+Structures;Optimizing+Algorithms;Active+on+Codeforces" alt="" />
 </div>
-
----
-
-<h2 align="center">🏆 Competitive Programming</h2>
 
 <div align="center">
   <a href="https://codeforces.com/profile/khaldoze">
