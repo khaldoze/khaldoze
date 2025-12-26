@@ -11,7 +11,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=khaldoze+is+interested+in+Math;khaldoze+is+interested+in+AI; khaldoze+is+interested+in+Problem+Solving" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=khaldoze+interesting+in+math;khaldoze+interesting+in+problem+solving;khaldoze+interesting+in+writing;khaldoze+interesting+in+AI" alt="About Me" />
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -38,9 +38,9 @@
 <h2 align="center">📊 Coding Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight&hide_border=true" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ---
