@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33E9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yousef+👋;Competitive+Programmer+🏆;CS+Student+@+SCU+🎓;Building+AI+%26+Game+Systems+🤖" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33E9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yousef+👋;Competitive+Programmer+🏆;CS+Student+@+SCU+🎓;Building+AI+%26+Game+Systems+🤖" alt=""/>
 </div>
 
 ---
@@ -11,7 +11,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33E9FF&center=true&vCenter=true&width=500&lines=Khaldoze+is+interested+in+Writing;Khaldoze+is+interested+in+AI;Khaldoze+is+interested+in+Problem+Solving;Khaldoze+is+interested+in+Game+Dev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=khaldoze+is+interested+in+writing;khaldoze+is+interested+in+AI;khaldoze+is+interested+in+Problem+Solving" alt="About Me Animation" />
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -38,16 +38,9 @@
 <h2 align="center">📊 Coding Statistics</h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight&hide_border=true" height="150" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight&hide_border=true" alt="" />
 </div>
 
 ---
@@ -72,10 +65,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamNreXp3bm9qZ3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</div>
 
 <p align="center">
   <sub><i>First, solve the problem. Then, write the code.</i></sub>
