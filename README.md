@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Khaldoze&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20CS%20Student%20%7C%20AI%20Dev&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33E9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yousef+👋;Competitive+Programmer+🏆;CS+Student+@+SCU+🎓;Building+AI+%26+Game+Systems+🤖" />
-</div>
-
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -33,15 +29,7 @@
 
 <h2 align="center">📊 Coding Statistics</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center"><i>Statistics are taking a short break. Check back soon!</i></p>
 
 ---
 
@@ -71,7 +59,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamNreXp3bm9qZ3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamNreXp3bm9qZ3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
 
 <p align="center">
