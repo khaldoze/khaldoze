@@ -3,9 +3,7 @@
 </div>
 
 <p align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33E9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yousef+👋;Competitive+Programmer+🏆;CS+Student+@+SCU+🎓;Building+AI+%26+Game+Systems+🤖" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33E9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yousef+👋;Competitive+Programmer+🏆;CS+Student+@+SCU+🎓;Building+AI+%26+Game+Systems+🤖" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,16 +11,15 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  
+
 | 🧠 **Focus** | 🎓 **Education** | 🚀 **Passion** |
 |:---:|:---:|:---:|
 | **Algorithms & AI** | **CS at Suez Canal University** | **Game Dev & Automation** |
 
 </div>
 
-<br/>
-
 <p align="center">
+  <br>
   <i>"Transforming coffee into efficient code and complex algorithms."</i>
 </p>
 
@@ -42,22 +39,9 @@
 <h2 align="center">📊 Coding Statistics</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight&hide_border=true" width="400" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldoze&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaldoze&show_icons=true&theme=tokyonight&hide_border=true" alt="Main Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khaldoze&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
@@ -88,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33ai009QWAPEc/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamNreXp3bm9qZ3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmR3Z3R5bmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 <p align="center">
